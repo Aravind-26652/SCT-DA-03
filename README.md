@@ -1,5 +1,81 @@
-This project analyses employee attrition data to identify the factors that influence employees leaving an organisation. Using 1,470 employee records across Human Resources, Research & Development, and Sales, it examines an overall attrition rate of 16.1% and explores patterns among the 237 employees who left.
+# Interactive Visualization
 
-The analysis considers employee demographics, job roles, salary, overtime, business travel, distance from home, job satisfaction, work-life balance, promotions, tenure, and manager relationships. Its goal is to identify high-risk employee groups and the workplace factors linked to turnover.
+This repository contains the solution for **Task 03** of the SkillCraft Technology Data Analytics Internship.
 
-The final deliverable is an interactive HR dashboard showing key metrics, attrition trends by department and role, and comparisons between employees who stayed and those who left. The insights will support practical retention strategies, such as improving work-life balance, reviewing overtime policies, strengthening career growth, and targeting support to vulnerable employee groups.
+The objective of this project is to build an interactive dashboard using **Power BI** or **Tableau** to explore and analyze business datasets.
+
+---
+
+## Objective
+
+- Build an interactive dashboard.
+- Enable filtering by Region, Department, or Age Group.
+- Answer key business questions through visualization.
+- Create meaningful reports using interactive charts.
+
+---
+
+## Features
+
+- Interactive Filters
+- KPI Cards
+- Dynamic Charts
+- Region-wise Analysis
+- Department-wise Analysis
+- Employee Attrition Insights
+- Trend Analysis
+
+---
+
+## Tools Used
+
+- Power BI
+
+---
+
+## Example Datasets
+
+- HR Employee Attrition
+
+---
+
+## Repository Structure
+
+```
+Task-03-Interactive-Visualization/
+│
+├── Dataset/
+├── Dashboard.pbix
+├── Screenshots/
+└── README.md
+```
+
+---
+
+## Project Outcome
+
+The dashboard enables users to interact with the data, identify trends, and answer business questions through dynamic visualizations.
+
+---
+
+## Learning Outcomes
+
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Interactive Reporting
+- Data Storytelling
+
+---
+
+## Author
+
+**Aravind**
+
+GitHub: https://github.com/Aravind-26652
+
+---
+
+## License
+
+This project is intended for educational and portfolio purposes.
