@@ -1,0 +1,1 @@
+This task analyses HR employee attrition data to identify why employees leave. It examines factors such as age, department, job role, income, overtime, satisfaction, work-life balance, promotions, travel, tenure, and distance from home to reveal attrition patterns and support employee-retention decisions.
